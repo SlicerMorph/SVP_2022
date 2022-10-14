@@ -16,4 +16,4 @@ This share contains three files:
 5. [3D Slicer Community Forum: To ask questions that you couldn't find answers to in links above](https://discourse.slicer.org)
 6. [Consider signign up to the SlicerMorph announcement to keep up-to-date with SlicerMorph project and extension updates](http://mailman11.u.washington.edu/mailman/listinfo/slicermorph-announcements)
 7. **Monthly SlicerMorph office hours:** 4th Tuesday of every month at 11 (Seattle Time). Please sign up to the mailing list for the meeting link. 
-8. Consider using SlicerMorphCloud platform to process large dataset: [Apply for an account here:](https://docs.google.com/forms/d/e/1FAIpQLSdq-YV5GcgBuTudKYoJFmIgHxGLBtsFzA6NttyVwIbxEPZ-9A/viewform?usp=sf_link) 
+8. Consider using SlicerMorphCloud platform to process large dataset: [Apply for an account here -ORCID is required](https://docs.google.com/forms/d/e/1FAIpQLSdq-YV5GcgBuTudKYoJFmIgHxGLBtsFzA6NttyVwIbxEPZ-9A/viewform?usp=sf_link) 
