@@ -1,7 +1,11 @@
-## SVP 2022 Workshop 
+# SVP 2022 Digital Morphology and Shape Analysis with SlicerMorph
 
+## Prior to workshop
+We are not sure about the WIFI quality at the conference, so we advise getting the software and the sample dataset prior to workshop on 1st.
 
-## [Download link for sample data:](https://seattlechildrens1.box.com/v/SVP2022Dataset)
+### [Download the stable version (v5.0.3) of the Slicer for your computer](https://download.slicer.org)
+### [How to install SlicerMorph Extension for 3D Slicer](https://github.com/SlicerMorph/SlicerMorph#installation)
+### [Download link for sample data:](https://seattlechildrens1.box.com/v/SVP2022Dataset)
 This share contains three files:
 1. **Hypertrag_UW13933Slices.zip:** Original image stack courtesy of Anne Kort. This is the original data format provided by the imaging center. This is a massive dataset (uncompressed 32GB) and when unzipped has 3754 TIFF files. The image spacing is 0.0346mm (or 34.6 micron). If you wanto import this dataset at its original resolution, you will need a computer with minimum of 48GB (64GB is better) RAM. We will show you how you use [`ImageStacks`](https://github.com/SlicerMorph/Tutorials/blob/main/ImageStacks/README.md) module of SlicerMorph to effectively import this data into 3D Slicer. 
 2. **preview.nrrd:** This is the same dataset above imported at preview resolution of original dataset (each axis is reduced by 4, so resolution is now 0.1384mm) and saved in NRRD format. This dataset can be directly loaded into Slicer. If you have a computer that has 8GB RAM (or less), please only use this dataset.
